@@ -37,6 +37,6 @@ $content = '<img src="Images/coffee1.png" class="imgLeft" />
     quis a risus.
 </p>';
 
-include 'Template.php';
+include_once 'Template.php';
 ?>
 
