@@ -38,5 +38,3 @@ $content = '<img src="Images/coffee1.png" class="imgLeft" />
 </p>';
 
 include_once 'Template.php';
-?>
-
